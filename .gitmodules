@@ -1,0 +1,3 @@
+[submodule "implementations/clnbusinesslogpy"]
+	path = implementations/clnbusinesslogpy
+	url = https://github.com/darwinhc/clnbusinesslogpy
