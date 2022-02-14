@@ -1,7 +1,6 @@
 Implementation of the application business rules (use cases) layer in
 the clean architecture for backend applications (clnbusinesslog)
 ================
-Darwin Herrera C.
 
 It is to create functionalities in the backend, without dependencies and
 based on use cases. Minimize the cost of a possible migration to another
