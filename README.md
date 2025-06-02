@@ -1,5 +1,5 @@
 Implementation of the application business rules (use cases) layer in
-the clean architecture for backend applications (clnbusinesslog)
+the clean architecture for backend applications (bisslog)
 ================
 
 It is to create functionalities in the backend, without dependencies and
